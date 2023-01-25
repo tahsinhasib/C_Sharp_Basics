@@ -1,4 +1,6 @@
-﻿using System;
+//Calculate Hypotenuse of triangle using dynamic initialization of variables
+
+using System;
 
 namespace ConsoleApp1
 {
