@@ -32,7 +32,8 @@ namespace ConsoleApp1
         public double GetCost()
         {
             double cost;
-            cost = GetArea() * 70; return cost;
+            cost = GetArea() * 70; 
+            return cost;
         }
         public void Display()
         {
@@ -46,8 +47,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Tabletop t = new Tabletop(); t.getdata();
-            t.Display(); Console.ReadKey();
+            Tabletop t = new Tabletop(); 
+            t.getdata();
+            t.Display(); 
+            Console.ReadKey();
         }
     }
 
