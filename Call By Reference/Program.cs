@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+/*
+C# provides a ref keyword to pass argument as reference-type. It passes reference of arguments to the function 
+rather than copy of original value. The changes in passed values are permanent and modify the original variable value.
+*/
+
+
 namespace ConsoleApp2
 {
     public class Program
