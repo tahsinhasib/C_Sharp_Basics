@@ -29,7 +29,9 @@ namespace ConsoleApp2
 
 
             Console.WriteLine("\nAnother approach!\n");
-            int[,] arr2 = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };        //declaration and initialization  
+            int[,] arr2 = { { 1, 2, 3 }, 
+                            { 4, 5, 6 }, 
+                            { 7, 8, 9 } };        //declaration and initialization  
 
             //traversal  
             for (int i = 0; i < 3; i++)
