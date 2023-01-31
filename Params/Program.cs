@@ -2,7 +2,7 @@
 
 namespace ConsoleApp2
 {
-    //initializing the jagged array while declaration!
+    
     public class Program
     {
         /*In C#, params is a keyword which is used to specify a parameter that takes variable 
