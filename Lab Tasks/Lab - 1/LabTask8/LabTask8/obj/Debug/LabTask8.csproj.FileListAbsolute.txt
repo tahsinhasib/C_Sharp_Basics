@@ -1,0 +1,8 @@
+C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask8\LabTask8\bin\Debug\LabTask8.exe.config
+C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask8\LabTask8\bin\Debug\LabTask8.exe
+C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask8\LabTask8\bin\Debug\LabTask8.pdb
+C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask8\LabTask8\obj\Debug\LabTask8.csproj.AssemblyReference.cache
+C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask8\LabTask8\obj\Debug\LabTask8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask8\LabTask8\obj\Debug\LabTask8.csproj.CoreCompileInputs.cache
+C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask8\LabTask8\obj\Debug\LabTask8.exe
+C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask8\LabTask8\obj\Debug\LabTask8.pdb
