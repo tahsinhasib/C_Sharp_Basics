@@ -1,0 +1,11 @@
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\bin\Debug\CRUD_Test.exe.config
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\bin\Debug\CRUD_Test.exe
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\bin\Debug\CRUD_Test.pdb
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.AssemblyReference.cache
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.Properties.Resources.resources
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.GenerateResource.cache
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.csproj.CoreCompileInputs.cache
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.exe
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.pdb
+C:\Users\Tahshin\Desktop\Temp\CRUD_Test\CRUD_Test\obj\Debug\CRUD_Test.Form1.resources
