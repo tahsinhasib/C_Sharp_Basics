@@ -1,0 +1,55 @@
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.exe
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.deps.json
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.runtimeconfig.json
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.dll
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.pdb
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.csproj.AssemblyReference.cache
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.csproj.GenerateResource.cache
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.AssemblyInfoInputs.cache
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.AssemblyInfo.cs
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.dll
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\refint\AIUB_Desktop.dll
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.pdb
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.genruntimeconfig.cache
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\ref\AIUB_Desktop.dll
+C:\Users\TAHSIN\Desktop\C Sharp\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.Start.resources
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.exe
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.deps.json
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.runtimeconfig.json
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.dll
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.pdb
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.csproj.AssemblyReference.cache
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.Start.resources
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.csproj.GenerateResource.cache
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.AssemblyInfoInputs.cache
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.AssemblyInfo.cs
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.dll
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\refint\AIUB_Desktop.dll
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.pdb
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.genruntimeconfig.cache
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\ref\AIUB_Desktop.dll
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.Login.resources
+C:\Users\Tahshin\Desktop\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.Properties.Resources.resources
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.exe
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.deps.json
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.runtimeconfig.json
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.dll
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\bin\Debug\net7.0-windows\AIUB_Desktop.pdb
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.csproj.AssemblyReference.cache
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.Login.resources
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.Properties.Resources.resources
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.Start.resources
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.csproj.GenerateResource.cache
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.AssemblyInfoInputs.cache
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.AssemblyInfo.cs
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.dll
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\refint\AIUB_Desktop.dll
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.pdb
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\AIUB_Desktop.genruntimeconfig.cache
+C:\Users\TAHSIN\Desktop\Project_AIUB_Desktop-main\AIUB_Desktop\AIUB_Desktop\obj\Debug\net7.0-windows\ref\AIUB_Desktop.dll
