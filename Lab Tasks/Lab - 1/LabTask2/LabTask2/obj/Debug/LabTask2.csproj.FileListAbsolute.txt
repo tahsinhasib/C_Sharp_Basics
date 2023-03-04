@@ -1,8 +1,0 @@
-C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask2\LabTask2\bin\Debug\LabTask2.exe.config
-C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask2\LabTask2\bin\Debug\LabTask2.exe
-C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask2\LabTask2\bin\Debug\LabTask2.pdb
-C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.AssemblyReference.cache
-C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.SuggestedBindingRedirects.cache
-C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask2\LabTask2\obj\Debug\LabTask2.csproj.CoreCompileInputs.cache
-C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask2\LabTask2\obj\Debug\LabTask2.exe
-C:\Users\Tahshin\Desktop\C Sharp Lab\LabTask2\LabTask2\obj\Debug\LabTask2.pdb
