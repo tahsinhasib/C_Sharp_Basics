@@ -1,49 +1,39 @@
 using System;
 
-class Rectangle
+public class Animal
 {
-    protected double length, width;
-    public void getdata()
+    public Animal()
     {
-        Console.WriteLine("Enter the length and width of the rectangle!!");
-        length = 4;
-        width = 5;
+        Console.WriteLine("Animal Constructor!");
     }
-    public double GetArea()
+    public void Move()
     {
-        return length * width;
-    }
-    public void Display()
-    {
-        Console.WriteLine("Length: {0}", length);
-        Console.WriteLine("Width: {0}", width);
-        Console.WriteLine("Area: {0}", GetArea());
-    }
-}//end class Rectangle
-
-class Tabletop : Rectangle
-{
-    private double cost;
-    public double GetCost()
-    {
-        double cost;
-        cost = GetArea() * 70;
-        return cost;
-    }
-    public void Display()
-    {
-        base.Display();
-        Console.WriteLine("Cost: {0}", GetCost());
+        Console.WriteLine("I am moving!");
     }
 }
-class ExecuteRectangle
+
+
+public class Cat : Animal
 {
-    static void Main(string[] args)
+    public Cat() : base()
     {
-        Tabletop t = new Tabletop();
-        t.getdata();
-        t.Display();
+        Console.WriteLine("Cat Constructor!");
+    }
+    public void Climb()
+    {
+        //base.Move();
+        Console.WriteLine("Cat Climbing!");
+    }
+}
+
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Cat c = new Cat();
+        Console.WriteLine();
+        c.Climb();
         Console.ReadKey();
     }
 }
-
